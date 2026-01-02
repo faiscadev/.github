@@ -4,7 +4,7 @@
 
 ![faísca.](faisca.svg)
 
-**For those who build their own fire**
+**For those who build their own fire.**
 
 </div>
 
